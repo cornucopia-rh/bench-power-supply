@@ -1,2 +1,2 @@
 # PSU
-EVGA Supernova 550 G#
+EVGA Supernova 550 G3
