@@ -11,3 +11,5 @@ In this folder I will keep all information about the hardware I use.
 - USB Charging Module
 - Standby LED
 - 
+## Ideas
+[INA 226 ](https://www.amazon.com/Monitoring-Interface-Bi-Directional-Zero-Drift-Breakout/dp/B0G33XVY8R?th=1)
